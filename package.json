@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "confusion",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
@@ -12,5 +13,28 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
+=======
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "bootstrap",
+  "main": "index.html",
+  "scripts": {
+     "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sincerechest/Bootstrap.git"
+  },
+  "author": "sincerechest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sincerechest/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/sincerechest/Bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+>>>>>>> 7cee33a3600166f331e0c0709b802caf42fdfc0c
   }
 }
